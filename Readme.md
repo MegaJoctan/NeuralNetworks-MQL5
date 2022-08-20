@@ -1,6 +1,7 @@
 The following code was used in an MQL5 Article about Gradient Descent linked here
 https://www.mql5.com/en/articles/11275
 
+
 ### Support the project
 Any thoughts and contribution will be appreciated. Buy me coffee if you appreciate the effort https://www.buymeacoffee.com/omegajoctan
 
