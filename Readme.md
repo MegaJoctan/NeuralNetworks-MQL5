@@ -1,4 +1,7 @@
-The following code was used in an MQL5 Article about Gradient Descent linked here
+### About the Project
+
+The following code was used in an MQL5 Article about Neural Network for more details see the links below
+https://www.mql5.com/en/articles/11334
 https://www.mql5.com/en/articles/11275
 
 
@@ -11,5 +14,5 @@ Create a personal work for me using this link https://www.mql5.com/en/job/new?pr
     * Support Vector Machine
     * Linear Regression
     * Logistic Regression
-    * Neural Network 
+    * Neural Networks
     * And many more on machine learning Aspects
